@@ -15,6 +15,17 @@
 		2DE3841B2056503400FAB0D4 /* Live.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DE384192056503400FAB0D4 /* Live.storyboard */; };
 		2DE3841D2056505000FAB0D4 /* Find.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DE3841C2056505000FAB0D4 /* Find.storyboard */; };
 		2DE384202056506400FAB0D4 /* Mine.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DE3841E2056506400FAB0D4 /* Mine.storyboard */; };
+		2DE3842D205652C500FAB0D4 /* FoundationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38422205652C500FAB0D4 /* FoundationExtension.swift */; };
+		2DE3842E205652C500FAB0D4 /* NotifcationCenterExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38423205652C500FAB0D4 /* NotifcationCenterExtension.swift */; };
+		2DE3842F205652C500FAB0D4 /* NSObjectExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38424205652C500FAB0D4 /* NSObjectExtension.swift */; };
+		2DE38430205652C500FAB0D4 /* NSUserDefaultsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38425205652C500FAB0D4 /* NSUserDefaultsExtension.swift */; };
+		2DE38431205652C500FAB0D4 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38426205652C500FAB0D4 /* StringExtension.swift */; };
+		2DE38432205652C500FAB0D4 /* UIApplicationExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38427205652C500FAB0D4 /* UIApplicationExtension.swift */; };
+		2DE38433205652C500FAB0D4 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38428205652C500FAB0D4 /* UIColorExtension.swift */; };
+		2DE38434205652C500FAB0D4 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE38429205652C500FAB0D4 /* UIImageExtension.swift */; };
+		2DE38435205652C500FAB0D4 /* UIStoryboardExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE3842A205652C500FAB0D4 /* UIStoryboardExtension.swift */; };
+		2DE38436205652C500FAB0D4 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE3842B205652C500FAB0D4 /* UIViewControllerExtension.swift */; };
+		2DE38437205652C500FAB0D4 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DE3842C205652C500FAB0D4 /* UIViewExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +39,17 @@
 		2DE3841A2056503400FAB0D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = dyzb_demo/Classes/Main/Base.lproj/Live.storyboard; sourceTree = "<group>"; };
 		2DE3841C2056505000FAB0D4 /* Find.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Find.storyboard; sourceTree = "<group>"; };
 		2DE3841F2056506400FAB0D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = dyzb_demo/Classes/Main/Base.lproj/Mine.storyboard; sourceTree = "<group>"; };
+		2DE38422205652C500FAB0D4 /* FoundationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoundationExtension.swift; sourceTree = "<group>"; };
+		2DE38423205652C500FAB0D4 /* NotifcationCenterExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotifcationCenterExtension.swift; sourceTree = "<group>"; };
+		2DE38424205652C500FAB0D4 /* NSObjectExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSObjectExtension.swift; sourceTree = "<group>"; };
+		2DE38425205652C500FAB0D4 /* NSUserDefaultsExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSUserDefaultsExtension.swift; sourceTree = "<group>"; };
+		2DE38426205652C500FAB0D4 /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		2DE38427205652C500FAB0D4 /* UIApplicationExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIApplicationExtension.swift; sourceTree = "<group>"; };
+		2DE38428205652C500FAB0D4 /* UIColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		2DE38429205652C500FAB0D4 /* UIImageExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
+		2DE3842A205652C500FAB0D4 /* UIStoryboardExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIStoryboardExtension.swift; sourceTree = "<group>"; };
+		2DE3842B205652C500FAB0D4 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
+		2DE3842C205652C500FAB0D4 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,8 +147,27 @@
 		2DE3841520564FD300FAB0D4 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
+				2DE38421205652C500FAB0D4 /* Extension */,
 			);
 			path = Tools;
+			sourceTree = "<group>";
+		};
+		2DE38421205652C500FAB0D4 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				2DE38422205652C500FAB0D4 /* FoundationExtension.swift */,
+				2DE38423205652C500FAB0D4 /* NotifcationCenterExtension.swift */,
+				2DE38424205652C500FAB0D4 /* NSObjectExtension.swift */,
+				2DE38425205652C500FAB0D4 /* NSUserDefaultsExtension.swift */,
+				2DE38426205652C500FAB0D4 /* StringExtension.swift */,
+				2DE38427205652C500FAB0D4 /* UIApplicationExtension.swift */,
+				2DE38428205652C500FAB0D4 /* UIColorExtension.swift */,
+				2DE38429205652C500FAB0D4 /* UIImageExtension.swift */,
+				2DE3842A205652C500FAB0D4 /* UIStoryboardExtension.swift */,
+				2DE3842B205652C500FAB0D4 /* UIViewControllerExtension.swift */,
+				2DE3842C205652C500FAB0D4 /* UIViewExtension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -205,7 +246,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2DE3842E205652C500FAB0D4 /* NotifcationCenterExtension.swift in Sources */,
+				2DE3842D205652C500FAB0D4 /* FoundationExtension.swift in Sources */,
+				2DE38435205652C500FAB0D4 /* UIStoryboardExtension.swift in Sources */,
+				2DE38431205652C500FAB0D4 /* StringExtension.swift in Sources */,
+				2DE38433205652C500FAB0D4 /* UIColorExtension.swift in Sources */,
 				2D3BBECA20564B30005B5807 /* AppDelegate.swift in Sources */,
+				2DE38437205652C500FAB0D4 /* UIViewExtension.swift in Sources */,
+				2DE38434205652C500FAB0D4 /* UIImageExtension.swift in Sources */,
+				2DE3842F205652C500FAB0D4 /* NSObjectExtension.swift in Sources */,
+				2DE38432205652C500FAB0D4 /* UIApplicationExtension.swift in Sources */,
+				2DE38436205652C500FAB0D4 /* UIViewControllerExtension.swift in Sources */,
+				2DE38430205652C500FAB0D4 /* NSUserDefaultsExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
